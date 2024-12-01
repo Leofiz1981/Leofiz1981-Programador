@@ -11,8 +11,9 @@ Otros conocimientos: Manejo básico de inglés, lógica de programación, y capa
 
 Proyectos Destacados
 
-📊 Calculadora de Impuestos (Python)
-Herramienta desarrollada en Python para calcular IVA y otros impuestos, utilizando principios de Programación Orientada a Objetos (POO).
+📊 Calculadora de Gastos Compartidos
+
+calculadora-gastos-compartidos Una herramienta que ayuda a dividir gastos entre amigos o compañeros, ideal para viajes o cenas grupales.
 (Ver proyecto en https://github.com/Leofiz1981/calculadora-gastos-compartidos.git)
 
 ✅ Gestor de Tareas (C#)
