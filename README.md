@@ -13,7 +13,7 @@ Proyectos Destacados
 
 📊 Calculadora de Impuestos (Python)
 Herramienta desarrollada en Python para calcular IVA y otros impuestos, utilizando principios de Programación Orientada a Objetos (POO).
-(Ver proyecto en GitHub: https://github.com/Leofiz1981/calculadora-impuestos)
+(Ver proyecto en https://github.com/Leofiz1981/calculadora-gastos-compartidos.git)
 
 ✅ Gestor de Tareas (C#)
 Programa de escritorio desarrollado en C# para gestionar tareas de forma simple y eficiente.
